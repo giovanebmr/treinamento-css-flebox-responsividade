@@ -1,4 +1,4 @@
-# Treinamento CSS Flebox e Responsividade
+# Treinamento CSS Flexbox e Responsividade
 
  Recriando a página inicial do Instagram
 
